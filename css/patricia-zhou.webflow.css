@@ -1,0 +1,58 @@
+.background-video {
+  position: static;
+  display: inline;
+  overflow: visible;
+}
+
+.container {
+  display: block;
+}
+
+.hero-text {
+  font-family: Merriweather, serif;
+  color: #fff;
+  font-size: 35px;
+  line-height: 55px;
+  font-weight: 300;
+  text-align: center;
+}
+
+.div-block {
+  margin-top: 20%;
+  padding-right: 12%;
+  padding-left: 12%;
+}
+
+.div-block-2 {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.footer-icon {
+  margin-right: 50px;
+}
+
+.body {
+  overflow: hidden;
+}
+
+.link-block {
+  position: static;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.div-block-3 {
+  position: fixed;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  text-align: center;
+}
